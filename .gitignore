@@ -23,6 +23,7 @@ node_modules/
 npm-debug.log
 nohup.out
 _site
+dist
 _data
 elasticsearch-*
 config/base.yaml
