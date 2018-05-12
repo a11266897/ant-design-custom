@@ -70,7 +70,7 @@
   position: absolute;
   height: 4px;
   border-radius: 4px;
-  background-color: #91d5ff;
+  background-color: #ffc6bd;
   -webkit-transition: background-color 0.3s ease;
   transition: background-color 0.3s ease;
 }
@@ -82,7 +82,7 @@
   height: 14px;
   cursor: pointer;
   border-radius: 50%;
-  border: solid 2px #91d5ff;
+  border: solid 2px #ffc6bd;
   background-color: #fff;
   -webkit-transition: border-color 0.3s, -webkit-transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
   transition: border-color 0.3s, -webkit-transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
@@ -90,22 +90,22 @@
   transition: border-color 0.3s, transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28), -webkit-transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
 }
 .ant-slider-handle:focus {
-  border-color: #46a6ff;
-  -webkit-box-shadow: 0 0 0 5px #8cc8ff;
-          box-shadow: 0 0 0 5px #8cc8ff;
+  border-color: #e16560;
+  -webkit-box-shadow: 0 0 0 5px #ed9f9c;
+          box-shadow: 0 0 0 5px #ed9f9c;
   outline: none;
 }
 .ant-slider-handle.ant-tooltip-open {
-  border-color: #1890ff;
+  border-color: #da3e38;
 }
 .ant-slider:hover .ant-slider-rail {
   background-color: #e1e1e1;
 }
 .ant-slider:hover .ant-slider-track {
-  background-color: #69c0ff;
+  background-color: #f2978d;
 }
 .ant-slider:hover .ant-slider-handle:not(.ant-tooltip-open) {
-  border-color: #69c0ff;
+  border-color: #f2978d;
 }
 .ant-slider-mark {
   position: absolute;
@@ -150,7 +150,7 @@
   margin-left: -4px;
 }
 .ant-slider-dot-active {
-  border-color: #8cc8ff;
+  border-color: #ed9f9c;
 }
 .ant-slider-disabled {
   cursor: not-allowed;

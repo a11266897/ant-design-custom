@@ -74,11 +74,11 @@
   color: rgba(0, 0, 0, 0.65);
 }
 .ant-switch-checked.ant-switch-loading:before {
-  color: #1890ff;
+  color: #da3e38;
 }
 .ant-switch:focus {
-  -webkit-box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
-          box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+  -webkit-box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
+          box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
   outline: 0;
 }
 .ant-switch:focus:hover {
@@ -123,7 +123,7 @@
   font-weight: bold;
 }
 .ant-switch-checked {
-  background-color: #1890ff;
+  background-color: #da3e38;
 }
 .ant-switch-checked .ant-switch-inner {
   margin-left: 6px;

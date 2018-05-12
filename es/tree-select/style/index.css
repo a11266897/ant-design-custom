@@ -48,7 +48,7 @@
 .ant-select-tree-checkbox-wrapper:hover .ant-select-tree-checkbox-inner,
 .ant-select-tree-checkbox:hover .ant-select-tree-checkbox-inner,
 .ant-select-tree-checkbox-input:focus + .ant-select-tree-checkbox-inner {
-  border-color: #1890ff;
+  border-color: #da3e38;
 }
 .ant-select-tree-checkbox-checked:after {
   position: absolute;
@@ -57,7 +57,7 @@
   width: 100%;
   height: 100%;
   border-radius: 2px;
-  border: 1px solid #1890ff;
+  border: 1px solid #da3e38;
   content: '';
   -webkit-animation: antCheckboxEffect 0.36s ease-in-out;
           animation: antCheckboxEffect 0.36s ease-in-out;
@@ -139,8 +139,8 @@
 }
 .ant-select-tree-checkbox-checked .ant-select-tree-checkbox-inner,
 .ant-select-tree-checkbox-indeterminate .ant-select-tree-checkbox-inner {
-  background-color: #1890ff;
-  border-color: #1890ff;
+  background-color: #da3e38;
+  border-color: #da3e38;
 }
 .ant-select-tree-checkbox-disabled {
   cursor: not-allowed;
@@ -250,10 +250,10 @@
   width: calc(100% - 24px);
 }
 .ant-select-tree li .ant-select-tree-node-content-wrapper:hover {
-  background-color: #e6f7ff;
+  background-color: #fff3f0;
 }
 .ant-select-tree li .ant-select-tree-node-content-wrapper.ant-select-tree-node-selected {
-  background-color: #bae7ff;
+  background-color: #ffeae6;
 }
 .ant-select-tree li span.ant-select-tree-checkbox {
   margin: 0 4px 0 0;
@@ -283,7 +283,7 @@
   content: "\e6ae";
   -webkit-animation: loadingCircle 1s infinite linear;
           animation: loadingCircle 1s infinite linear;
-  color: #1890ff;
+  color: #da3e38;
 }
 .ant-select-tree li span.ant-select-tree-switcher.ant-select-tree-switcher-noop {
   cursor: auto;

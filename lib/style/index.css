@@ -155,7 +155,7 @@ sup {
   top: -0.5em;
 }
 a {
-  color: #1890ff;
+  color: #da3e38;
   background-color: transparent;
   text-decoration: none;
   outline: none;
@@ -170,10 +170,10 @@ a:focus {
           text-decoration-skip: ink;
 }
 a:hover {
-  color: #40a9ff;
+  color: #e66960;
 }
 a:active {
-  color: #096dd9;
+  color: #b32525;
 }
 a:active,
 a:hover {
@@ -333,11 +333,11 @@ mark {
   background-color: #feffe6;
 }
 ::-moz-selection {
-  background: #1890ff;
+  background: #da3e38;
   color: #fff;
 }
 ::selection {
-  background: #1890ff;
+  background: #da3e38;
   color: #fff;
 }
 .clearfix {

@@ -23,7 +23,7 @@
 .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
   background: #fff;
   border-color: #e8e8e8;
-  color: #1890ff;
+  color: #da3e38;
   padding-bottom: 1px;
 }
 .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-inactive {
@@ -77,8 +77,8 @@
   transition: all .3s;
 }
 .ant-tabs-extra-content .ant-tabs-new-tab:hover {
-  color: #1890ff;
-  border-color: #1890ff;
+  color: #da3e38;
+  border-color: #da3e38;
 }
 .ant-tabs-vertical.ant-tabs-card > .ant-tabs-bar .ant-tabs-nav-container {
   height: auto;
@@ -126,7 +126,7 @@
   border-radius: 0 0 4px 4px;
 }
 .ant-tabs.ant-tabs-card.ant-tabs-bottom > .ant-tabs-bar .ant-tabs-tab-active {
-  color: #1890ff;
+  color: #da3e38;
   padding-bottom: 0;
   padding-top: 1px;
 }
@@ -163,7 +163,7 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   height: 2px;
-  background-color: #1890ff;
+  background-color: #da3e38;
   -webkit-transform-origin: 0 0;
       -ms-transform-origin: 0 0;
           transform-origin: 0 0;
@@ -351,16 +351,16 @@
   margin-right: 0;
 }
 .ant-tabs-nav .ant-tabs-tab:hover {
-  color: #40a9ff;
+  color: #e66960;
 }
 .ant-tabs-nav .ant-tabs-tab:active {
-  color: #096dd9;
+  color: #b32525;
 }
 .ant-tabs-nav .ant-tabs-tab .anticon {
   margin-right: 8px;
 }
 .ant-tabs-nav .ant-tabs-tab-active {
-  color: #1890ff;
+  color: #da3e38;
   font-weight: 500;
 }
 .ant-tabs-large .ant-tabs-nav-container {

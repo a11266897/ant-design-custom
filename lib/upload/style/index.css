@@ -52,7 +52,7 @@
   padding: 8px;
 }
 .ant-upload.ant-upload-select-picture-card:hover {
-  border-color: #1890ff;
+  border-color: #da3e38;
 }
 .ant-upload.ant-upload-drag {
   border: 1px dashed #d9d9d9;
@@ -68,7 +68,7 @@
   background: #fafafa;
 }
 .ant-upload.ant-upload-drag.ant-upload-drag-hover:not(.ant-upload-disabled) {
-  border: 2px dashed #40a9ff;
+  border: 2px dashed #e66960;
 }
 .ant-upload.ant-upload-drag.ant-upload-disabled {
   cursor: not-allowed;
@@ -82,14 +82,14 @@
   vertical-align: middle;
 }
 .ant-upload.ant-upload-drag:not(.ant-upload-disabled):hover {
-  border-color: #40a9ff;
+  border-color: #e66960;
 }
 .ant-upload.ant-upload-drag p.ant-upload-drag-icon {
   margin-bottom: 20px;
 }
 .ant-upload.ant-upload-drag p.ant-upload-drag-icon .anticon {
   font-size: 48px;
-  color: #40a9ff;
+  color: #e66960;
 }
 .ant-upload.ant-upload-drag p.ant-upload-text {
   font-size: 16px;
@@ -189,7 +189,7 @@
   color: rgba(0, 0, 0, 0.65);
 }
 .ant-upload-list-item:hover .ant-upload-list-item-info {
-  background-color: #e6f7ff;
+  background-color: #fff3f0;
 }
 .ant-upload-list-item:hover .anticon-cross {
   opacity: 1;

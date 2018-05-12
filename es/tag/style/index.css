@@ -75,17 +75,17 @@
   border-color: transparent;
 }
 .ant-tag-checkable:not(.ant-tag-checkable-checked):hover {
-  color: #1890ff;
+  color: #da3e38;
 }
 .ant-tag-checkable:active,
 .ant-tag-checkable-checked {
   color: #fff;
 }
 .ant-tag-checkable-checked {
-  background-color: #1890ff;
+  background-color: #da3e38;
 }
 .ant-tag-checkable:active {
-  background-color: #096dd9;
+  background-color: #b32525;
 }
 .ant-tag-close {
   width: 0 !important;
@@ -206,13 +206,13 @@
   color: #fff;
 }
 .ant-tag-blue {
-  color: #1890ff;
-  background: #e6f7ff;
-  border-color: #91d5ff;
+  color: #da3e38;
+  background: #fff3f0;
+  border-color: #ffc6bd;
 }
 .ant-tag-blue-inverse {
-  background: #1890ff;
-  border-color: #1890ff;
+  background: #da3e38;
+  border-color: #da3e38;
   color: #fff;
 }
 .ant-tag-geekblue {
