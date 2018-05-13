@@ -16,7 +16,7 @@
   -webkit-flex: auto;
       -ms-flex: auto;
           flex: auto;
-  background: #f0f2f5;
+  background: #f4f4f4;
 }
 .ant-layout,
 .ant-layout * {
@@ -42,13 +42,13 @@
           flex: 0 0 auto;
 }
 .ant-layout-header {
-  background: #cb2f32;
+  background: #b21521;
   padding: 0 50px;
   height: 64px;
   line-height: 64px;
 }
 .ant-layout-footer {
-  background: #f0f2f5;
+  background: #f4f4f4;
   padding: 24px 50px;
   color: rgba(0, 0, 0, 0.65);
   font-size: 14px;
@@ -63,7 +63,7 @@
   -webkit-transition: all .2s;
   transition: all .2s;
   position: relative;
-  background: #cb2f32;
+  background: #b21521;
   /* fix firefox can't set width smaller than content on flex item */
   min-width: 0;
 }
@@ -105,7 +105,7 @@
   width: 36px;
   height: 42px;
   line-height: 42px;
-  background: #cb2f32;
+  background: #b21521;
   color: #fff;
   font-size: 18px;
   border-radius: 0 4px 4px 0;
@@ -114,5 +114,5 @@
   transition: background .3s ease;
 }
 .ant-layout-sider-zero-width-trigger:hover {
-  background: #d04447;
+  background: #ba2c37;
 }
