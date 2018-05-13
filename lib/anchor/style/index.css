@@ -42,7 +42,7 @@
   width: 8px;
   height: 8px;
   border-radius: 8px;
-  border: 2px solid #da3e38;
+  border: 2px solid #b21521;
   background-color: #fff;
   left: 50%;
   -webkit-transition: top 0.3s ease-in-out;
@@ -76,7 +76,7 @@
   margin-bottom: 0;
 }
 .ant-anchor-link-active > .ant-anchor-link-title {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-anchor-link .ant-anchor-link {
   padding-top: 6px;

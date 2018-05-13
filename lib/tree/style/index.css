@@ -48,7 +48,7 @@
 .ant-tree-checkbox-wrapper:hover .ant-tree-checkbox-inner,
 .ant-tree-checkbox:hover .ant-tree-checkbox-inner,
 .ant-tree-checkbox-input:focus + .ant-tree-checkbox-inner {
-  border-color: #da3e38;
+  border-color: #b21521;
 }
 .ant-tree-checkbox-checked:after {
   position: absolute;
@@ -57,7 +57,7 @@
   width: 100%;
   height: 100%;
   border-radius: 2px;
-  border: 1px solid #da3e38;
+  border: 1px solid #b21521;
   content: '';
   -webkit-animation: antCheckboxEffect 0.36s ease-in-out;
           animation: antCheckboxEffect 0.36s ease-in-out;
@@ -139,8 +139,8 @@
 }
 .ant-tree-checkbox-checked .ant-tree-checkbox-inner,
 .ant-tree-checkbox-indeterminate .ant-tree-checkbox-inner {
-  background-color: #da3e38;
-  border-color: #da3e38;
+  background-color: #b21521;
+  border-color: #b21521;
 }
 .ant-tree-checkbox-disabled {
   cursor: not-allowed;
@@ -248,15 +248,15 @@
   -webkit-user-drag: element;
 }
 .ant-tree li.drag-over > span[draggable] {
-  background-color: #da3e38;
+  background-color: #b21521;
   color: white;
   opacity: 0.8;
 }
 .ant-tree li.drag-over-gap-top > span[draggable] {
-  border-top-color: #da3e38;
+  border-top-color: #b21521;
 }
 .ant-tree li.drag-over-gap-bottom > span[draggable] {
-  border-bottom-color: #da3e38;
+  border-bottom-color: #b21521;
 }
 .ant-tree li.filter-node > span {
   color: #f5222d !important;
@@ -282,10 +282,10 @@
   line-height: 24px;
 }
 .ant-tree li .ant-tree-node-content-wrapper:hover {
-  background-color: #fff3f0;
+  background-color: #f2e0df;
 }
 .ant-tree li .ant-tree-node-content-wrapper.ant-tree-node-selected {
-  background-color: #ffeae6;
+  background-color: #e6b1ae;
 }
 .ant-tree li span.ant-tree-checkbox {
   margin: 4px 4px 0 2px;
@@ -323,7 +323,7 @@
   content: "\E64D";
   -webkit-animation: loadingCircle 1s infinite linear;
           animation: loadingCircle 1s infinite linear;
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-tree li span.ant-tree-switcher.ant-tree-switcher-noop {
   cursor: default;

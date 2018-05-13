@@ -23,7 +23,7 @@
   transition: color .3s;
 }
 .ant-breadcrumb a:hover {
-  color: #e66960;
+  color: #bf363c;
 }
 .ant-breadcrumb > span:last-child {
   color: rgba(0, 0, 0, 0.65);

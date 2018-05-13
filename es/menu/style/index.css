@@ -58,7 +58,7 @@
 }
 .ant-menu-item:active,
 .ant-menu-submenu-title:active {
-  background: #fff3f0;
+  background: #f2e0df;
 }
 .ant-menu-submenu .ant-menu-sub {
   cursor: initial;
@@ -70,7 +70,7 @@
   color: rgba(0, 0, 0, 0.65);
 }
 .ant-menu-item > a:hover {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu-item > a:focus {
   text-decoration: none;
@@ -95,7 +95,7 @@
 .ant-menu:not(.ant-menu-inline) .ant-menu-submenu-open,
 .ant-menu-submenu-active,
 .ant-menu-submenu-title:hover {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu-horizontal .ant-menu-item,
 .ant-menu-horizontal .ant-menu-submenu {
@@ -107,14 +107,14 @@
   background-color: transparent;
 }
 .ant-menu-item-selected {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu-item-selected > a,
 .ant-menu-item-selected > a:hover {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
-  background-color: #fff3f0;
+  background-color: #f2e0df;
 }
 .ant-menu-inline,
 .ant-menu-vertical,
@@ -268,9 +268,9 @@
 .ant-menu-submenu-vertical-left > .ant-menu-submenu-title:hover .ant-menu-submenu-arrow:before,
 .ant-menu-submenu-vertical-right > .ant-menu-submenu-title:hover .ant-menu-submenu-arrow:before,
 .ant-menu-submenu-inline > .ant-menu-submenu-title:hover .ant-menu-submenu-arrow:before {
-  background: -webkit-gradient(linear, left top, right top, from(#da3e38), to(#da3e38));
-  background: -webkit-linear-gradient(left, #da3e38, #da3e38);
-  background: linear-gradient(to right, #da3e38, #da3e38);
+  background: -webkit-gradient(linear, left top, right top, from(#b21521), to(#b21521));
+  background: -webkit-linear-gradient(left, #b21521, #b21521);
+  background: linear-gradient(to right, #b21521, #b21521);
 }
 .ant-menu-submenu-inline > .ant-menu-submenu-title .ant-menu-submenu-arrow:before {
   -webkit-transform: rotate(-45deg) translateX(2px);
@@ -300,12 +300,12 @@
 .ant-menu-vertical .ant-menu-submenu-selected,
 .ant-menu-vertical-left .ant-menu-submenu-selected,
 .ant-menu-vertical-right .ant-menu-submenu-selected {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu-vertical .ant-menu-submenu-selected > a,
 .ant-menu-vertical-left .ant-menu-submenu-selected > a,
 .ant-menu-vertical-right .ant-menu-submenu-selected > a {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu-horizontal {
   border: 0;
@@ -329,15 +329,15 @@
 .ant-menu-horizontal > .ant-menu-submenu-open,
 .ant-menu-horizontal > .ant-menu-item-selected,
 .ant-menu-horizontal > .ant-menu-submenu-selected {
-  border-bottom: 2px solid #da3e38;
-  color: #da3e38;
+  border-bottom: 2px solid #b21521;
+  color: #b21521;
 }
 .ant-menu-horizontal > .ant-menu-item > a {
   display: block;
   color: rgba(0, 0, 0, 0.65);
 }
 .ant-menu-horizontal > .ant-menu-item > a:hover {
-  color: #da3e38;
+  color: #b21521;
 }
 .ant-menu-horizontal > .ant-menu-item > a:before {
   bottom: -2px;
@@ -363,7 +363,7 @@
   right: 0;
   top: 0;
   bottom: 0;
-  border-right: 3px solid #da3e38;
+  border-right: 3px solid #b21521;
   -webkit-transform: scaleY(0.0001);
       -ms-transform: scaleY(0.0001);
           transform: scaleY(0.0001);
@@ -555,7 +555,7 @@
   background: transparent;
 }
 .ant-menu-dark .ant-menu-inline.ant-menu-sub {
-  background: #000c17;
+  background: #2b2525;
   -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45) inset;
           box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45) inset;
 }
@@ -669,7 +669,7 @@
 }
 .ant-menu.ant-menu-dark .ant-menu-item-selected,
 .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
-  background-color: #da3e38;
+  background-color: #b21521;
 }
 .ant-menu-dark .ant-menu-item-disabled,
 .ant-menu-dark .ant-menu-submenu-disabled,

@@ -131,7 +131,7 @@ span.ant-transfer-list-search-action {
 }
 .ant-transfer-list-content-item:not(.ant-transfer-list-content-item-disabled):hover {
   cursor: pointer;
-  background-color: #fff3f0;
+  background-color: #f2e0df;
 }
 .ant-transfer-list-content-item-disabled {
   cursor: not-allowed;
@@ -175,7 +175,7 @@ span.ant-transfer-list-search-action {
 }
 @-webkit-keyframes transferHighlightIn {
   0% {
-    background: #ffeae6;
+    background: #e6b1ae;
   }
   100% {
     background: transparent;
@@ -183,7 +183,7 @@ span.ant-transfer-list-search-action {
 }
 @keyframes transferHighlightIn {
   0% {
-    background: #ffeae6;
+    background: #e6b1ae;
   }
   100% {
     background: transparent;

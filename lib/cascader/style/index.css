@@ -49,10 +49,10 @@
   cursor: not-allowed;
 }
 .ant-cascader-picker:focus .ant-cascader-input {
-  border-color: #e66960;
+  border-color: #bf363c;
   outline: 0;
-  -webkit-box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
-          box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
+  -webkit-box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
+          box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
 }
 .ant-cascader-picker-label {
   position: absolute;
@@ -186,7 +186,7 @@
   transition: all 0.3s;
 }
 .ant-cascader-menu-item:hover {
-  background: #fff3f0;
+  background: #f2e0df;
 }
 .ant-cascader-menu-item-disabled {
   cursor: not-allowed;

@@ -12,7 +12,7 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  color: #da3e38;
+  color: #b21521;
   vertical-align: middle;
   text-align: center;
   opacity: 0;
@@ -124,7 +124,7 @@
   width: 9px;
   height: 9px;
   border-radius: 100%;
-  background-color: #da3e38;
+  background-color: #b21521;
   -webkit-transform: scale(0.75);
       -ms-transform: scale(0.75);
           transform: scale(0.75);

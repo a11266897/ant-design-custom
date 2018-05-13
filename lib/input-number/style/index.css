@@ -36,13 +36,13 @@
   color: #bfbfbf;
 }
 .ant-input-number:hover {
-  border-color: #e66960;
+  border-color: #bf363c;
 }
 .ant-input-number:focus {
-  border-color: #e66960;
+  border-color: #bf363c;
   outline: 0;
-  -webkit-box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
-          box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
+  -webkit-box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
+          box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
 }
 .ant-input-number-disabled {
   background-color: #f5f5f5;
@@ -88,7 +88,7 @@ textarea.ant-input-number {
 }
 .ant-input-number-handler:hover .ant-input-number-handler-up-inner,
 .ant-input-number-handler:hover .ant-input-number-handler-down-inner {
-  color: #e66960;
+  color: #bf363c;
 }
 .ant-input-number-handler-up-inner,
 .ant-input-number-handler-down-inner {
@@ -129,13 +129,13 @@ textarea.ant-input-number {
   font-size: 12px;
 }
 .ant-input-number:hover {
-  border-color: #e66960;
+  border-color: #bf363c;
 }
 .ant-input-number-focused {
-  border-color: #e66960;
+  border-color: #bf363c;
   outline: 0;
-  -webkit-box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
-          box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
+  -webkit-box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
+          box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
 }
 .ant-input-number-disabled {
   background-color: #f5f5f5;

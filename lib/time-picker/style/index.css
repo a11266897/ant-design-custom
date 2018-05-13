@@ -140,7 +140,7 @@
   transition: background 0.3s;
 }
 .ant-time-picker-panel-select li:hover {
-  background: #fff3f0;
+  background: #f2e0df;
 }
 li.ant-time-picker-panel-select-option-selected {
   background: #f5f5f5;
@@ -242,13 +242,13 @@ li.ant-time-picker-panel-select-option-disabled:hover {
   color: #bfbfbf;
 }
 .ant-time-picker-input:hover {
-  border-color: #e66960;
+  border-color: #bf363c;
 }
 .ant-time-picker-input:focus {
-  border-color: #e66960;
+  border-color: #bf363c;
   outline: 0;
-  -webkit-box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
-          box-shadow: 0 0 0 2px rgba(218, 62, 56, 0.2);
+  -webkit-box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
+          box-shadow: 0 0 0 2px rgba(178, 21, 33, 0.2);
 }
 .ant-time-picker-input-disabled {
   background-color: #f5f5f5;
